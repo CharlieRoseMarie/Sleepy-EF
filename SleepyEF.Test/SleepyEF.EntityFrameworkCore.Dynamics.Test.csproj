@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SleepyEF\SleepyEF.csproj" />
+    <ProjectReference Include="..\SleepyEF\SleepyEF.EntityFrameworkCore.Dynamics.csproj" />
   </ItemGroup>
 
 </Project>
